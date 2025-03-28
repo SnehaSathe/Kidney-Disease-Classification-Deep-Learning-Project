@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/SnehaSathe/Kidney-Disease-Classification-Deep-Learning-Project
+Author: SnehaSathe
+Author-email: snehawaydande@gmail.com
+Project-URL: Bug Tracker, https://github.com/SnehaSathe/Kidney-Disease-Classification-Deep-Learning-Project/issues
+Description-Content-Type: text/markdown
+
+# Kidney-Disease-Classification-Deep-Learning-Project
+
+
+
+...
+# How to run?
+...
+
+
+### STEPS:
+
+Clone the repository
+```bash
+https://github.com/krishnaik06/
+```
+### 
+Kidney-Disease-Classification-Deep-Learning-Project
+STEP 01- Create a conda environment after opening the repository
+conda create -n cnncls python=3.8 -y
+conda activate cnncls
