@@ -1,1 +1,1 @@
-cnnClassfier
+cnnClassifier
