@@ -219,3 +219,38 @@ x==========x]
 [2025-04-04 07:51:53,945: INFO: main: >>>>>> stage Prepare Base Model completed <<<<<<<
 
 x==========x]
+[2025-04-05 15:07:39,718: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-05 15:07:39,736: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-05 15:07:39,736: INFO: common: created directory at: artifacts]
+[2025-04-05 15:07:39,744: INFO: common: created directory at: artifacts\training]
+[2025-04-05 15:17:07,326: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-05 15:17:07,331: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-05 15:17:07,338: INFO: common: created directory at: artifacts]
+[2025-04-05 15:17:07,341: INFO: common: created directory at: artifacts\training]
+[2025-04-05 15:32:11,283: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-04-05 15:32:11,285: INFO: common: yaml file: c:\Sneha\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2025-04-05 15:32:11,288: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-05 15:32:11,288: INFO: common: created directory at: artifacts]
+[2025-04-05 15:32:11,290: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-04-05 15:32:11,291: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1EX7Vf2CUuEQy4CwxVMPfZctkiKek_Qbw/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-04-05 15:33:08,314: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1EX7Vf2CUuEQy4CwxVMPfZctkiKek_Qbw/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-04-05 15:33:09,118: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<<
+
+x==========x]
+[2025-04-05 15:33:09,118: INFO: main: >>>>>> stage Prepare Base Model started <<<<<<]
+[2025-04-05 15:33:09,120: INFO: common: yaml file: c:\Sneha\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2025-04-05 15:33:09,121: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-05 15:33:09,122: INFO: common: created directory at: artifacts]
+[2025-04-05 15:33:09,123: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-04-05 15:33:12,439: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-04-05 15:33:14,673: INFO: main: >>>>>> stage Prepare Base Model completed <<<<<<<
+
+x==========x]
+[2025-04-05 15:33:14,673: INFO: main: >>>>>> stage Training started <<<<<<]
+[2025-04-05 15:33:14,675: INFO: common: yaml file: c:\Sneha\Kidney-Disease-Classification-Deep-Learning-Project\config\config.yaml loaded successfully]
+[2025-04-05 15:33:14,678: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-05 15:33:14,679: INFO: common: created directory at: artifacts]
+[2025-04-05 15:33:14,680: INFO: common: created directory at: artifacts\training]
+[2025-04-05 15:34:59,687: INFO: main: >>>>>> stage Training completed <<<<<<<
+
+x==========x]
